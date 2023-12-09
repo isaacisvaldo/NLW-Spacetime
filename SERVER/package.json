@@ -2,11 +2,24 @@
   "name": "nwl_spacetime",
   "version": "1.0.0",
   "main": "server.ts",
+  "scripts": {
+    "dev": "tsx watch src/server.ts"
+  },
   "repository": "https://github.com/IsaacIsvaldo/NLW-Spacetime/tree/master",
   "author": "Isaac Isvaldo Bunga",
   "license": "MIT",
   "devDependencies": {
     "@types/node": "^20.10.4",
     "typescript": "^5.3.3"
+  },
+  "dependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.57.1",
+    "@typescript-eslint/parser": "^5.57.1",
+    "dotenv": "^16.0.3",
+    "eslint": "^8.37.0",
+    "fastify": "^4.24.3",
+    "jest": "^29.5.0",
+    "prisma": "^5.7.0",
+    "tsx": "^4.6.2"
   }
 }
