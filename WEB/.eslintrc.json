@@ -1,0 +1,3 @@
+{
+  "extends": ["next/coreweb-vita-ls","@rocketseat/eslint-config/react "]
+}
