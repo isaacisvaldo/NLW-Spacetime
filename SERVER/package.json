@@ -1,0 +1,12 @@
+{
+  "name": "nwl_spacetime",
+  "version": "1.0.0",
+  "main": "server.ts",
+  "repository": "https://github.com/IsaacIsvaldo/NLW-Spacetime/tree/master",
+  "author": "Isaac Isvaldo Bunga",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^20.10.4",
+    "typescript": "^5.3.3"
+  }
+}
