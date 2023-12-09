@@ -3,7 +3,14 @@
   "version": "1.0.0",
   "main": "server.ts",
   "scripts": {
-    "dev": "tsx watch src/server.ts"
+    "dev": "tsx watch src/server.ts",
+    "migration": "npx prisma migrate dev",
+    "update:prisma": "npx prisma generate --watch",
+    "seed": "npx prisma db seed",
+    "studio": "npx prisma studio"
+  },
+  "prisma": {
+    "seed": "ts-node prisma/seed.ts"
   },
   "repository": "https://github.com/IsaacIsvaldo/NLW-Spacetime/tree/master",
   "author": "Isaac Isvaldo Bunga",
@@ -13,6 +20,7 @@
     "typescript": "^5.3.3"
   },
   "dependencies": {
+    "@prisma/client": "5.7.0",
     "@typescript-eslint/eslint-plugin": "^5.57.1",
     "@typescript-eslint/parser": "^5.57.1",
     "dotenv": "^16.0.3",
