@@ -1,3 +1,7 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.sans2 {
+    font-family: var(--font-sans)
+}
