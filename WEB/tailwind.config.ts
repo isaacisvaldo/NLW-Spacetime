@@ -55,6 +55,7 @@ const config: Config = {
       },
       backgroundSize:{
         stripes:'100% 8px',
+        
 
       },
       blur:{
