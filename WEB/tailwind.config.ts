@@ -13,7 +13,7 @@ const config: Config = {
       },
       colors: {
         gray: {
-          50:  '#eaeaea',
+          50: '#eaeaea',
           100: '#bebebf',
           200: '#9e9ea0',
           300: '#727275',
@@ -37,7 +37,7 @@ const config: Config = {
           900: '#372560',
         },
         green: {
-          50:  '#e6fbef',
+          50: '#e6fbef',
           100: '#b1f1ce',
           200: '#8cebb6',
           300: '#57e295',
@@ -51,18 +51,21 @@ const config: Config = {
       },
       backgroundImage: {
         stripes:
-        'linear-gradient(to bottom, rgba(255,255,255,0.1 ), rgba(255,255,255,0.1 ) 12.5%, transparent 12.5%, transparent)',
+          'linear-gradient(to bottom, rgba(255,255,255,0.1 ), rgba(255,255,255,0.1 ) 12.5%, transparent 12.5%, transparent)',
       },
-      backgroundSize:{
-        stripes:'100% 8px',
-        
+      fontSize: {
+        '5xl': '2.5rem',
+      },
+      backgroundSize: {
+        stripes: '100% 8px',
+
 
       },
-      blur:{
-        full:'194px'
+      blur: {
+        full: '194px'
       }
     },
   },
-  plugins: [], 
+  plugins: [],
 }
 export default config
