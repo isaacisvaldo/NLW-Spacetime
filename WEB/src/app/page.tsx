@@ -27,6 +27,7 @@ export default function Home() {
                </p>
             </div>
             <a  className='inline-block rounded-full bg-green-500 hover:bg-green-600 px-5 py-3 font-alt text-sm uppercase leading-none text-black' href="">CADASTRAR LEMBRANÇA</a>
+         
          </div>
           {/*Copyright*/}
           <div className='text-sm leading-relaxed text-gray-200'>
