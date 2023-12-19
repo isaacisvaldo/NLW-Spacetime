@@ -130,9 +130,9 @@ npm run dev
        <br />
        <a href="https://github.com/IsaacIsvaldo/NLW-Spacetime" title="Code">💻</a>
     </td>
-    <td align="center">
+     <td align="center">
       <a href="http://github.com/rocketseat/">
-        <img src="https://www.figma.com/file/JqajmuyaDPSQQZmmFkPyZy/C%C3%A1psula-do-tempo-%E2%80%A2-Trilha-Ignite-(Community)?type=design&node-id=0-1&mode=design&t=aBpe63tcZ2jAUQ6E-0" width="100px;" alt="Logo da Rocketseat"/>
+        <img src="https://avatars.githubusercontent.com/u/28929274?s=200&v=4" width="100px;" alt="Logo da Rocketseat"/>
         <br />
         <sub>
           <b>Rocketseat</b>
@@ -141,7 +141,7 @@ npm run dev
        <br />
        <a href="http://github.com/rocketseat/" title="Linkedin">@rocketseat</a>
        <br />
-       <a href="https://github.com/tavareshenrique/go-barber-web-ts/commits?author=tavareshenrique" title="Education Platform">🚀</a>
+       <a href="#" title="Education Platform">🚀</a>
     </td>
   </tr>
 </table>
