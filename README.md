@@ -118,21 +118,21 @@ npm run dev
 <table>
   <tr>
     <td align="center">
-      <a href="http://github.com/tavareshenrique/">
-        <img src="https://avatars1.githubusercontent.com/u/27022914?v=4" width="100px;" alt="Henrique Tavares"/>
+      <a href="https://github.com/IsaacIsvaldo/">
+        <img src="https://avatars.githubusercontent.com/u/91834847?v=4" width="100px;" alt="Isaac Isvaldo Bunga"/>
         <br />
         <sub>
-          <b>Henrique Tavares</b>
+          <b>Isaac Isvaldo Bunga</b>
         </sub>
        </a>
        <br />
-       <a href="https://www.linkedin.com/in/tavareshenrique/" title="Linkedin">@tavareshenrique</a>
+       <a href="https://www.linkedin.com/in/isaac-isvaldo-bunga/" title="Linkedin">@isaac-isvaldo-bunga</a>
        <br />
-       <a href="https://github.com/tavareshenrique/go-barber-web-ts/commits?author=tavareshenrique" title="Code">💻</a>
+       <a href="https://github.com/IsaacIsvaldo/NLW-Spacetime" title="Code">💻</a>
     </td>
     <td align="center">
       <a href="http://github.com/rocketseat/">
-        <img src="https://avatars.githubusercontent.com/u/28929274?s=200&v=4" width="100px;" alt="Logo da Rocketseat"/>
+        <img src="https://www.figma.com/file/JqajmuyaDPSQQZmmFkPyZy/C%C3%A1psula-do-tempo-%E2%80%A2-Trilha-Ignite-(Community)?type=design&node-id=0-1&mode=design&t=aBpe63tcZ2jAUQ6E-0" width="100px;" alt="Logo da Rocketseat"/>
         <br />
         <sub>
           <b>Rocketseat</b>
