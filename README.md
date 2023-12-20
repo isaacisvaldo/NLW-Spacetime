@@ -5,13 +5,7 @@
    NLW Spacetime - Cápsula do Tempo
 </h1>
 
-<p align="center">
-  <img alt="Last commit on GitHub" src="https://img.shields.io/github/last-commit/tavareshenrique/nlw-spacetime?color=6c4ad0">
-  <img alt="Made by Henrique Tavares" src="https://img.shields.io/badge/made%20by-Henrique Tavares-%20?color=6c4ad0">
-  <img alt="Project top programing language" src="https://img.shields.io/github/languages/top/tavareshenrique/nlw-spacetime?color=6c4ad0">
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/tavareshenrique/nlw-spacetime?color=6c4ad0">
-  <img alt="GitHub license" src="https://img.shields.io/github/license/tavareshenrique/nlw-spacetime?color=6c4ad0">
-</p>
+
 
 <p align="center">
   <a href="#information_source-como-executar">ℹ️ Como Executar?</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
