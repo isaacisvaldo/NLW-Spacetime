@@ -16,7 +16,6 @@ model User {
   createdAt DateTime @default(now())
   updatedAt DateTime @updatedAt
   memories  Memory[]
-
   @@map("user")
 }
 
@@ -29,6 +28,5 @@ model Memory {
   user     User?   @relation(fields: [userId], references: [id])
   createdAt DateTime @default(now())
   updatedAt DateTime @updatedAt
-
   @@map("memories")
 }
